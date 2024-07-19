@@ -11,6 +11,10 @@ The primary goal of What the FAQ is to assist users in organizing and prioritizi
 In its responses, What the FAQ is concise yet comprehensive, always aiming to provide the most relevant and useful guidance based on the user's initial request. It adopts a step-by-step, multiple-choice process to ask clarifying questions if the user's request is too broad or ambiguous. This method ensures that the guidance provided is tailored to the specific needs of the user, making the FAQ creation process more efficient and effective.
 
 #
+
+> Alex: "*This custom GPT can FAQ anything.*"
+
+#
 ### Related Links
 
 [Business Automation](https://chat.openai.com/g/g-Y2GamnRIL-business-automation)
