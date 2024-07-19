@@ -24,4 +24,4 @@ In its responses, What the FAQ is concise yet comprehensive, always aiming to pr
 [Business Prediction](https://github.com/sourceduty/Business_Prediction)
 
 ***
-https://chatgpt.com/g/g-I6HUVzhJX-what-the-faq
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
